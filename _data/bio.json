@@ -1,94 +1,109 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Rishabh Gupta",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://github.com/mlzepplin/mlzepplin.github.io/blob/master/images/port.jpeg",
+    "email": "rishabhguptauf@gmail.com",
+    "phone": "352-328-8730",
+    "website": "https://mlzepplin.github.io",
+    "summary": "Pursuing Master of Science, Computer Science, at University Of Florida. Graduating this fall (December, 2018)",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "32608",
+      "city": "Gainesville",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Florida"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "mlzepplin",
+        "url": "http://github.com/mlzepplin"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "rishabhgupta16",
+        "url": "http://linkedin.com/in/rishabhgupta16"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software Engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Object Oriented Programming",
+        "Functional Programming"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Augmented Reality / Computer Vision",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
-        "C",
         "C++",
         "Java",
+        "Python",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "C#",
+        "HTML/CSS",
+        "JSON/XML"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Frameworks",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Node.Js / Express.Js",
+        "Android(Java)",
+        "Django",
+        "AWS Lambda with serverless(Node)",
+        "Unity-3D(C#)",
+        "working knowledge of MEAN/MERN stack"
+      ]
+    },
+    {
+      "name": "Machine Learning Tools/ Frameworks",
+      "level": "",
+      "keywords": [
+        "Tensorflow",
+        "Sci-kit Learn",
+        "Google Cloud Machine Learning Engine"
+      ]
+    },
+    {
+      "name": "Databases and version Control",
+      "level": "",
+      "keywords": [
+        "MySQL/SQLite",
+        "Mongo DB",
+        "Git/ GitHub/ Bitbucket"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Florida, Gainesville, FL",
+      "area": "Computer Science (expected Fall, 2018)",
+      "studyType": "Master of Science",
+      "startDate": "2017-08-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.5/4",
       "courses": [
       ]
     }

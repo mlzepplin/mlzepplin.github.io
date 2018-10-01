@@ -14,10 +14,11 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/logo.png">
+  <img class="ui image" src="../images/swamphacks.png">
+  <img class="ui image" src="../images/logo2.png">
+  <img class="ui image" src="../images/training.png">
+  <img class="ui image" src="../images/predictions.png">
 </div>
 
 ## Inspiration

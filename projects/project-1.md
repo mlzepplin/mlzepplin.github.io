@@ -5,7 +5,7 @@ image: images/logo.png
 title: OpenDoors
 permalink: projects/opendoors
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-01-21
 labels:
   - Deep Learning
   - Tensorflow

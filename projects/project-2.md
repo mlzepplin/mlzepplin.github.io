@@ -14,18 +14,6 @@ labels:
   - Web Scraping
 summary: Finalist, VandyHacks 2017, App that recommends music on the basis of user's facial expressions
 ---
-# Application flow: 
-
-
-<div class="ui image">
-  <img class="ui image" src="../images/mf11.png">
-  <img class="ui image" src="../images/mf12.png">
-  <img class="ui image" src="../images/mf3.png">
-  <img class="ui image" src="../images/mf14.png">
-  <img class="ui image" src="../images/mf15.png">
-  <img class="ui image" src="../images/mf16.png">
-</div>
-
 # musicalfaces
 
 Project [Video Link](https://youtu.be/wetPkyiPhww)
@@ -54,5 +42,16 @@ Microsoft Azure face API:https://azure.microsoft.com/en-us/services/cognitive-se
 Youtube data v3 API: https://developers.google.com/youtube/v3/
 
 
-
 Project Devpost: [SwampHacks Devpost](https://devpost.com/software/opendoors).
+
+# Application flow through images: 
+
+<div class="ui image">
+  <img class="ui image" src="../images/mf11.png">
+  <img class="ui image" src="../images/mf12.png">
+  <img class="ui image" src="../images/mf3.png">
+  <img class="ui image" src="../images/mf14.png">
+  <img class="ui image" src="../images/mf15.png">
+  <img class="ui image" src="../images/mf16.png">
+</div>
+

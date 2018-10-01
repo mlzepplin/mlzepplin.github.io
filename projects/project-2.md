@@ -14,7 +14,7 @@ labels:
   - Web Scraping
 summary: Finalist, VandyHacks 2017, App that recommends music on the basis of user's facial expressions
 ---
-
+## Application flow: 
 <div class="ui image">
   <img class="ui image" src="../images/mf11.png">
   <img class="ui image" src="../images/mf12.png">

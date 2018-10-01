@@ -29,6 +29,8 @@ summary: Finalist, VandyHacks 2017, App that recommends music on the basis of us
 # musicalfaces
 
 Project [Video Link](https://youtu.be/wetPkyiPhww)
+<div class="ui embed" data-source="youtube" data-id="wetPkyiPhww" >
+</div>
 
 Our project musicalfaces is a step to bridge the gap between visual and sonic stimulus. 
 

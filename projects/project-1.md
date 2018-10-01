@@ -1,24 +1,25 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/logo.png
+title: OpenDoors
+permalink: projects/opendoors
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Deep Learning
+  - Tensorflow
+  - Node.js
+  - Python
+  - Android
+summary: Winner BestHack,Infinite Energy SwampHacks 2018, team developed an app to help blind people navigate a busy lobby.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/logo.png">
-  <img class="ui image" src="../images/swamphacks.png">
   <img class="ui image" src="../images/logo2.png">
-  <img class="ui image" src="../images/training.png">
-  <img class="ui image" src="../images/predictions.png">
+  <img class="ui image" src="../images/swamphacks.png">
+  <img class="ui image" src="../images/predictions1.png">
+  <img class="ui image" src="../images/predictions2.png">
 </div>
 
 ## Inspiration

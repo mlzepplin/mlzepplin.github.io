@@ -1,52 +1,54 @@
 ---
 layout: project
 type: project
-image: images/logo.png
+image: images/mf5.png
 title: Musical Faces
 permalink: projects/musicalfaces
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-21
+date: 2017-10-21
 labels:
-  - Deep Learning
-  - Tensorflow
-  - Node.js
-  - Python
   - Android
-summary: Winner BestHack,Infinite Energy SwampHacks 2018, team developed an app to help blind people navigate a busy lobby.
+  - Microsoft Cognitive Services API
+  - Microsoft Face API
+  - Youtube V3 API
+  - Web Scraping
+summary: Finalist, VandyHacks 2017, App that recommends music on the basis of user's facial expressions
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/logo2.png">
-  <img class="ui image" src="../images/swamphacks.png">
-  <img class="ui image" src="../images/predictions1.png">
-  <img class="ui image" src="../images/predictions2.png">
+  <img class="ui image" src="../images/mf1.png">
+  <img class="ui image" src="../images/mf2.png">
+  <img class="ui image" src="../images/mf3.png">
+  <img class="ui image" src="../images/mf4.png">
+  <img class="ui image" src="../images/mf5.png">
+  <img class="ui image" src="../images/mf6.png">
 </div>
 
-## Inspiration
-Hackathons have always been about getting together with a group of like-minded people and trying to create something new that hasn't been done before. While most ideas are born through careful research, planning, and brainstorming, this idea was born out of a real necessity in this world. From the start, our team knew that we wanted to make something that would help blind people navigate the world using computer vision. Using this basis, we formulated the idea into a more concrete plan and decided that we would focus on a specific, yet important, problem that blind people face on a daily basis.
+# musicalfaces
 
-## What it does
-Our application aims to serve as a visual aid for the blind, making them more aware of their surroundings through real-time analysis of their phone's camera feed. We're tackling the huge stimulus from the world one object at a time, and to lay our groundwork, we've selected the task of recognizing doors. 
+Project [Video Link](https://youtu.be/wetPkyiPhww)
 
-When the phone is pointed towards any direction, it vibrates if it senses a door in its path.
-## How we built it
-None of us had ever met each other before, we formed the team via the slack channel of Swamp hacks, with each one bringing their own special skill-set to the table. We had a rough idea of the direction we wanted to head into, but it was through various brainstorming sessions with the mentors, discussions about dev-ops and accessibility centered design that we iteratively kept tweaking and improving our idea.
+Our project musicalfaces is a step to bridge the gap between visual and sonic stimulus. 
 
-For the dev-ops, we initially worked out a pipeline that we would follow, with timed deadlines to keep us grinding. We divided ourselves into two sub-groups where two people tackled the computer vision and the machine learning aspect of it and the other two worked on setting up the server-side and client-side infrastructure. 
+We base our project on two primary premises
+- we express extensively through our facial features
+- and we are slave to the rhythem of the music !! (YAY!)
 
-Instead of leaving the merging of the two worlds for the end, we decided to go forth with periodic integrations, so that we don't compromise on our product due to stress by the end. 
 
-## Challenges we ran into
-Getting the machine learning models to an acceptable level of accuracy was a challenge, and required training and testing of a lot of different models.
-Data for learning was another issue, but we managed to find some good data-sets, and for specific applications went, through Marston to generate our own data, and manually label it too.
-Making the server interact with the client, when dealing with real-time image feed posed to be a big challenge as well.
 
-## Accomplishments that we're proud of
-We're proud of the hard work and the collective team-effort that we put into this project.
-We're proud of the tremendous amount of research we got to go through  this project, regarding dev-ops and primarily regarding accessibility,
+In times of need when we are feeling low, sad or depressed ,one uplifting song can make us feel better, then be it one that we've never listened to before, and on the contrary , when we are feeling on top of the world, a song about heart-break can possibly bring back spikes of pain.
 
-## What's next for OpenDoors
-The next step for OpenDoors is already in the development phase and very specific, where we plan to inform the user about the different types of doors(for operational purposes), bathroom signs. In addition, we can use complex facial recognition and analysis techniques to help give blind people context in social situations that they would not have otherwise had. For example, we could scrape their social media profiles to learn the faces and names of people they know and love. Then, we can provide situtational awareness by informing them when it detects one of those faces.
+Now imagine, your sitting with someone , and you can just whip out your phone , take a picture of their face and get to know how they are felling, and in addition you can help them to make them feel better by playing a recommended song for their emotion.
 
-Project [powerpoint presentation](https://docs.google.com/presentation/d/1vI8OxTr2I2iy9ValWcKdyY1Iip29E1QNxm0o2dIMrqw/edit?usp=sharing)
+And now also imagine that one of your close friend is wayyy happy that they are supposed to be, imagine now that you can bring them down to the ground reality, by contradicting their emotion by a recommended opposing emotion song, might come pretty handy, eh? ;D
+
+Tech specs
+Android application, android sdk
+Microsoft vision API: https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/
+Microsoft Azure emotion API: https://azure.microsoft.com/en-us/services/cognitive-services/emotion/
+Microsoft Azure face API:https://azure.microsoft.com/en-us/services/cognitive-services/face/
+Youtube data v3 API: https://developers.google.com/youtube/v3/
+
+
+
 Project Devpost: [SwampHacks Devpost](https://devpost.com/software/opendoors).

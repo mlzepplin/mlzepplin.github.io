@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/mf5.png
+image: images/mf15.png
 title: Musical Faces
 permalink: projects/musicalfaces
 # All dates must be YYYY-MM-DD format!
@@ -16,12 +16,12 @@ summary: Finalist, VandyHacks 2017, App that recommends music on the basis of us
 ---
 
 <div class="ui image">
-  <img class="ui image" src="../images/mf1.png">
+  <img class="ui image" src="../images/mf11.png">
   <img class="ui image" src="../images/mf2.png">
   <img class="ui image" src="../images/mf3.png">
-  <img class="ui image" src="../images/mf4.png">
-  <img class="ui image" src="../images/mf5.png">
-  <img class="ui image" src="../images/mf6.png">
+  <img class="ui image" src="../images/mf14.png">
+  <img class="ui image" src="../images/mf15.png">
+  <img class="ui image" src="../images/mf16.png">
 </div>
 
 # musicalfaces

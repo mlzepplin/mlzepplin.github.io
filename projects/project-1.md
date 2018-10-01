@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/logo.jpg
+image: images/swamphacks.jpg
 title: OpenDoors: Winner BestHack - Infinite Energy, SwampHacks, 2018
 permalink: projects/opendoors
 # All dates must be YYYY-MM-DD format!
@@ -50,7 +50,7 @@ We're proud of the tremendous amount of research we got to go through  this proj
 The next step for OpenDoors is already in the development phase and very specific, where we plan to inform the user about the different types of doors(for operational purposes), bathroom signs. In addition, we can use complex facial recognition and analysis techniques to help give blind people context in social situations that they would not have otherwise had. For example, we could scrape their social media profiles to learn the faces and names of people they know and love. Then, we can provide situtational awareness by informing them when it detects one of those faces.
 
 Project [powerpoint presentation](https://docs.google.com/presentation/d/1vI8OxTr2I2iy9ValWcKdyY1Iip29E1QNxm0o2dIMrqw/edit?usp=sharing)
-You can learn more at the [SwampHacks Devpost](https://devpost.com/software/opendoors).
+Project Devpost: [SwampHacks Devpost](https://devpost.com/software/opendoors).
 
 
 

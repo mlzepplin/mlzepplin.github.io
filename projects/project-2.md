@@ -17,7 +17,7 @@ summary: Finalist, VandyHacks 2017, App that recommends music on the basis of us
 
 <div class="ui image">
   <img class="ui image" src="../images/mf11.png">
-  <img class="ui image" src="../images/mf2.png">
+  <img class="ui image" src="../images/mf12.png">
   <img class="ui image" src="../images/mf3.png">
   <img class="ui image" src="../images/mf14.png">
   <img class="ui image" src="../images/mf15.png">

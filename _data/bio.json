@@ -110,27 +110,30 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "RealTruck.com",
+      "position": "Software Developer Intern, backend",
+      "website": "https://www.realtruck.com/",
+      "startDate": "2018-06-01",
+      "endDate": "2018-08-22",
+      "summary": "Technologies: Python, Node JS, Tensorflow, Google Compute Engine and Machine Learning Engine, serverless, AWS Lambda,SQL",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed a product recommendation system by building  machine learning models using Tensorflow",
+        "Queried Amazon Redshift Database for relevant user-data, such as purchase history, location, etc.",
+        "Deployed the said models into production on Google Cloud Platform",
+        "Built REST APIs and clients in Node Js to extend and access model’s predictions to send out automated mass promotional emails to existing users",
+        "Outcome - Improved e-commerce conversion rate by 1.14 %"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Indian Institute of Technology, Delhi",
+      "position": "Machine Learning Research Intern",
+      "website": "http://www.iitd.ac.in/",
+      "startDate": "2016-06-01",
+      "endDate": "2016-10-07",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Designed and implemented machine learning algorithms to automatically segment out tumor regions from Diffusion-weighted MRI scan images. Dice Coefficient - 68%",
+        "Outcome - developed software is being used by doctors at India’s best Medical Institution, AIIMS, Delhi"
       ]
     }
   ],

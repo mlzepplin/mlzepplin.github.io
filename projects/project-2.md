@@ -15,7 +15,7 @@ labels:
 summary: Finalist, VandyHacks 2017, App that recommends music on the basis of user's facial expressions
 ---
 
-<div class="ui small rounded images">
+<div class="ui image">
   <img class="ui image" src="../images/mf1.png">
   <img class="ui image" src="../images/mf2.png">
   <img class="ui image" src="../images/mf3.png">

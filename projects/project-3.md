@@ -18,7 +18,7 @@ summary: A speech and gesture based task organiser App based on the Natural User
 Enjoy a detailed walkthrough through our developed application: it's use cases and demo!
 
 App [Video Link](https://www.youtube.com/watch?v=oFvKx148R0E)
-<div class="ui embed" data-source="youtube" url="https://www.youtube.com/watch?v=oFvKx148R0E" >
+<div class="ui embed" url="https://www.youtube.com/watch?v=oFvKx148R0E" >
 </div>
 
 Friday - the task organiser was developed as part of the course CEN5726: Natural User Interaction

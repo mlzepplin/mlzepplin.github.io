@@ -5,7 +5,6 @@ image: images/friday.png
 title: Friday
 permalink: projects/friday
 # All dates must be YYYY-MM-DD format!
-date: 2017-03
 labels:
   - Android
   - Android Speech API

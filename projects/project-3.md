@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/friday.png
+image: images/friday2.png
 title: Friday
 permalink: projects/friday
 # All dates must be YYYY-MM-DD format!

@@ -14,7 +14,7 @@ labels:
 summary: A speech and gesture based task organiser App based on the Natural User Interaction methodologies and surveys
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/friday_header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/fridayheader.png">
 
 Enjoy a detailed walkthrough through our developed application: it's use cases and demo!
 

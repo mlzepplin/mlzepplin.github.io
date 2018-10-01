@@ -1,57 +1,45 @@
 ---
 layout: project
 type: project
-image: images/swamphacks.jpg
-title: OpenDoors: Winner BestHack - Infinite Energy, SwampHacks, 2018
-permalink: projects/opendoors
+image: images/micromouse.jpg
+title: Micromouse
+permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
-  - Deep Learning
-  - Tensorflow
-  - Node.js
-  - Python
-  - Android
-summary: At SwampHacks 2018, my team developed an app to help blind people navigate a busy lobby where we won a BestHack prize
+  - Robotics
+  - Arduino
+  - C++
+summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/logo.png">
-  <img class="ui image" src="../images/swamphacks.png">
-  <img class="ui image" src="../images/logo2.png">
-  <img class="ui image" src="../images/training.png">
-  <img class="ui image" src="../images/predictions.png">
+  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/micromouse-robot-2.jpg">
+  <img class="ui image" src="../images/micromouse.jpg">
+  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Inspiration
-Hackathons have always been about getting together with a group of like-minded people and trying to create something new that hasn't been done before. While most ideas are born through careful research, planning, and brainstorming, this idea was born out of a real necessity in this world. From the start, our team knew that we wanted to make something that would help blind people navigate the world using computer vision. Using this basis, we formulated the idea into a more concrete plan and decided that we would focus on a specific, yet important, problem that blind people face on a daily basis.
+Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
-What it does
-Our application aims to serve as a visual aid for the blind, making them more aware of their surroundings through real-time analysis of their phone's camera feed. We're tackling the huge stimulus from the world one object at a time, and to lay our groundwork, we've selected the task of recognizing doors. 
+For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
 
-When the phone is pointed towards any direction, it vibrates if it senses a door in its path.
+Here is some code that illustrates how we read values from the line sensors:
 
-How we built it
-None of us had ever met each other before, we formed the team via the slack channel of Swamp hacks, with each one bringing their own special skill-set to the table. We had a rough idea of the direction we wanted to head into, but it was through various brainstorming sessions with the mentors, discussions about dev-ops and accessibility centered design that we iteratively kept tweaking and improving our idea.
+```js
+byte ADCRead(byte ch)
+{
+    word value;
+    ADC1SC1 = ch;
+    while (ADC1SC1_COCO != 1)
+    {   // wait until ADC conversion is completed   
+    }
+    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
+}
+```
 
-For the dev-ops, we initially worked out a pipeline that we would follow, with timed deadlines to keep us grinding. We divided ourselves into two sub-groups where two people tackled the computer vision and the machine learning aspect of it and the other two worked on setting up the server-side and client-side infrastructure. 
+You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
-Instead of leaving the merging of the two worlds for the end, we decided to go forth with periodic integrations, so that we don't compromise on our product due to stress by the end. 
-
-Challenges we ran into
-Getting the machine learning models to an acceptable level of accuracy was a challenge, and required training and testing of a lot of different models.
-Data for learning was another issue, but we managed to find some good data-sets, and for specific applications went, through Marston to generate our own data, and manually label it too.
-Making the server interact with the client, when dealing with real-time image feed posed to be a big challenge as well.
-
-Accomplishments that we're proud of
-We're proud of the hard work and the collective team-effort that we put into this project.
-We're proud of the tremendous amount of research we got to go through  this project, regarding dev-ops and primarily regarding accessibility,
-
-What's next for OpenDoors
-The next step for OpenDoors is already in the development phase and very specific, where we plan to inform the user about the different types of doors(for operational purposes), bathroom signs. In addition, we can use complex facial recognition and analysis techniques to help give blind people context in social situations that they would not have otherwise had. For example, we could scrape their social media profiles to learn the faces and names of people they know and love. Then, we can provide situtational awareness by informing them when it detects one of those faces.
-
-Project [powerpoint presentation](https://docs.google.com/presentation/d/1vI8OxTr2I2iy9ValWcKdyY1Iip29E1QNxm0o2dIMrqw/edit?usp=sharing)
-Project Devpost: [SwampHacks Devpost](https://devpost.com/software/opendoors).
 
 
 

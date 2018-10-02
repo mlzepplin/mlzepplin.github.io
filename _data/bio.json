@@ -108,7 +108,7 @@
       ]
     }
   ],
-  "work": [
+  "Internship Experiences": [
     {
       "company": "RealTruck.com",
       "position": "Software Developer Intern, backend",
@@ -137,30 +137,44 @@
       ]
     }
   ],
-  "volunteer": [
+  "Independent Projects": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": " Infinite Energy, Swamphacks, 2018 [ Android, TensorFlow, PyTorch, Node JS, VPS, Deep Learning]",
+      "website": "https://swamphacks-iv.devpost.com/submissions",
+      "position": "Winner - BestHack",
+      "startDate": "2018-01-01",
+      "endDate": "",
+      "summary": "Open Doors: An Accessibility-First application that helps blind people navigate busy lobbies using their phone’s camera",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Designed and implemented Deep Learning models using Tensorflow and PyTorch SDKs",
+        "Developed Node Js service to support real-time video predictions"
       ]
     },
     {
-      "organization": "",
+      "organization": " VandyHacks, 2017 [ Android, Microsoft Cognitive Services, Microsoft Azure Face API, Youtube V3 API, Web Scraping]",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
+      "position": "Finalist",
+      "startDate": "2017",
       "endDate": "",
-      "summary": "",
+      "summary": "Musical Faces: Mobile application that recommends music based on user’s facial expressions
+",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Consumed Microsoft Cognitive Services API and Azure Face API to detect user’s facial expressions",
+        "Built a network utility to scrape dynamically updating genre based music lists from the web",
+        "Embedded Youtube player and consumed youtube API for in-app streaming of recommendations 3"
+      ]
+    },
+    {
+      "organization": "[ Java, Neural Networks, Stanford Core NLP, Natural Language Processing]",
+      "website": "",
+      "position": "Sentiment Analysis",
+      "startDate": "2014",
+      "endDate": "",
+      "summary": "Sentie: Implemented Dense Neural Networks from scratch along with Natural Language Processing techniques such as n-gram models and parts-of-speech tagging to predict sentiments of paragraphs of text. Dataset - http://sentiwordnet.isti.cnr.it/ ",
+      "highlights": [
+        "Consumed Microsoft Cognitive Services API and Azure Face API to detect user’s facial expressions",
+        "Built a network utility to scrape dynamically updating genre based music lists from the web",
+        "Embedded Youtube player and consumed youtube API for in-app streaming of recommendations 3"
       ]
     }
   ],

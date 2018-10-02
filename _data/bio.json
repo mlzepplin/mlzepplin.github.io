@@ -1,3 +1,4 @@
+
 {
   "basics": {
     "name": "Rishabh Gupta",
@@ -108,7 +109,7 @@
       ]
     }
   ],
-  "Internship Experiences": [
+  "work": [
     {
       "company": "RealTruck.com",
       "position": "Software Developer Intern, backend",
@@ -137,7 +138,7 @@
       ]
     }
   ],
-  "Independent Projects": [
+  "volunteer": [
     {
       "organization": " Infinite Energy, Swamphacks, 2018 [ Android, TensorFlow, PyTorch, Node JS, VPS, Deep Learning]",
       "website": "https://swamphacks-iv.devpost.com/submissions",

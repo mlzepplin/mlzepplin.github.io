@@ -173,9 +173,7 @@
       "endDate": "",
       "summary": "Sentie: Implemented Dense Neural Networks from scratch along with Natural Language Processing techniques such as n-gram models and parts-of-speech tagging to predict sentiments of paragraphs of text. Dataset - http://sentiwordnet.isti.cnr.it/ ",
       "highlights": [
-        "Consumed Microsoft Cognitive Services API and Azure Face API to detect user’s facial expressions",
-        "Built a network utility to scrape dynamically updating genre based music lists from the web",
-        "Embedded Youtube player and consumed youtube API for in-app streaming of recommendations 3"
+        
       ]
     }
   ],

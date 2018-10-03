@@ -12,7 +12,7 @@ labels:
   - Node.js
   - Python
   - Android
-summary: Winner BestHack, Infinite Energy, SwampHacks 2018 | Team developed an app to help blind people navigate a busy lobby.
+summary: Winner BestHack, SwampHacks 2018
 ---
 <img class="ui image" src="../images/swamphacks.png">
 <div class="ui small rounded images">

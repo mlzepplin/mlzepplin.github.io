@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/logo.png
-title: OpenDoors
+title: 1 OpenDoors
 permalink: projects/1opendoors
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-21

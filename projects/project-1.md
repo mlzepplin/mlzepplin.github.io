@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/logo.png
-title: 1 OpenDoors
-permalink: projects/1opendoors
+title: 1. OpenDoors
+permalink: projects/opendoors
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-21
 labels:

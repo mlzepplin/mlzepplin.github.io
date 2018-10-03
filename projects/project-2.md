@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/mf15.png
-title: Musical Faces
-permalink: projects/2musicalfaces
+title: 2. Musical Faces
+permalink: projects/musicalfaces
 # All dates must be YYYY-MM-DD format!
 date: 2017-10-21
 labels:

@@ -12,7 +12,7 @@ labels:
   - Microsoft Face API
   - Youtube V3 API
   - Web Scraping
-summary: Finalist, VandyHacks 2017, App that recommends music on the basis of user's facial expressions
+summary: Finalist, VandyHacks 2017
 ---
 # musicalfaces
 

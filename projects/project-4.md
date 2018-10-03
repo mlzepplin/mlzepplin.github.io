@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/incognito_header.png
+image: images/incognito.png
 title: Incognito
 permalink: projects/incognito
 # All dates must be YYYY-MM-DD format!

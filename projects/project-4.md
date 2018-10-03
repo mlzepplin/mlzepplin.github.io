@@ -20,11 +20,16 @@ summary: A First Person STEALTH game, where the player can't shoot
   <img class="ui image" src="../images/guards.png">
 </div>
 
+
+
 ## Idea
 Stealth gameplay 
 Spy game
 First Person
 
+Project [Video Link](https://www.youtube.com/watch?v=HOaqC1x4dZk)
+<div class="ui embed" data-source="youtube" data-id="HOaqC1x4dZk" >
+</div>
 
 ## Story
 Retired spy

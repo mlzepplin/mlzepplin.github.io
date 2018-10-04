@@ -175,19 +175,45 @@
       "highlights": [
         
       ]
+    },
+    {
+      "organization": "[ C++, pthreads, Gnu Debugger, lex, yacc, Valgrind ]",
+      "website": "",
+      "position": "Sentiment Analysis",
+      "startDate": "2018",
+      "endDate": "",
+      "summary": "Built a Database system from ground up that supports a subset of SQL functionality",
+      "highlights": [
+        "Implemented multithreaded External Two-Pass Multiway Merge Sort  algorithm to support record Sorting",
+        "Implemented paging to reduce number of disk-accesses and developed memory optimal relational operations",
+        "Designed and incorporated query optimisation based on relational data",
+        "Used pthreads for concurrency, e.g. handling the producer-consumer infrastructure, etc."
+      ]
+    },
+    {
+      "organization": "[ Elixir, ErLang, Gossip Protocol, Actor Model]",
+      "website": "",
+      "position": "Distributed System - Gossiper ",
+      "startDate": "2018",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Built a Distributed, scalable, fault tolerant information sharing system based on the Actor model for concurrency, implementing  the Gossip  and Push-Sum protocols",
+        "Tested the gossiper on various network topologies, such as linear, 2-D grid, Sphere/Torus, Full network of more than 10,000 nodes"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Winner BestHack, Swamphacks, 2018",
+      "title": "Winner BestHack",
       "date": "2018",
-      "awarder": "",
+      "awarder": "Swamphacks, 2018",
       "summary": ""
     },
     {
-      "title": "Finalist, VandyHacks, 2017",
+      "title": "Finalist",
       "date": "2017",
-      "awarder": "",
+      "awarder": "VandyHacks, 2017",
       "summary": ""
     },
     {

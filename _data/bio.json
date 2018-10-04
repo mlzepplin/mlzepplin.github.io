@@ -111,7 +111,7 @@
   ],
   "work": [
     {
-      "company": "RealTruck.com",
+      "company": "RealTruck.com (Florida, USA)",
       "position": "Software Developer Intern, backend",
       "website": "https://www.realtruck.com/",
       "startDate": "2018-06-01",
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "company": "Indian Institute of Technology, Delhi",
+      "company": "Indian Institute of Technology (Delhi, India)",
       "position": "Machine Learning Research Intern",
       "website": "http://www.iitd.ac.in/",
       "startDate": "2016-06-01",
@@ -179,7 +179,7 @@
     {
       "organization": "[ C++, pthreads, Gnu Debugger, lex, yacc, Valgrind ]",
       "website": "",
-      "position": "Sentiment Analysis",
+      "position": "Database Engine Implementation",
       "startDate": "2018",
       "endDate": "",
       "summary": "Built a Database system from ground up that supports a subset of SQL functionality",

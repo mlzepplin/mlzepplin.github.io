@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cpp.png
+image: images/TensorBasedChanVesse.png
 title: 5. Computer Vision
 permalink: projects/computervision
 # All dates must be YYYY-MM-DD format!

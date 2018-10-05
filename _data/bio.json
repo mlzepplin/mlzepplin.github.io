@@ -121,8 +121,7 @@
         "Developed a product recommendation system by building  machine learning models using Tensorflow",
         "Queried Amazon Redshift Database for relevant user-data, such as purchase history, location, etc.",
         "Deployed the said models into production on Google Cloud Platform",
-        "Built REST APIs and clients in Node Js to extend and access model’s predictions to send out automated mass promotional emails to existing users",
-        "Outcome - Improved e-commerce conversion rate by 1.14 %"
+        "Built REST APIs and clients in Node Js to extend and access model’s predictions to send out automated mass promotional emails to existing users"
       ]
     },
     {
